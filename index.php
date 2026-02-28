@@ -213,6 +213,13 @@ if (isset($_POST['contact_btn'])) {
               </div>
             </div>
 
+            <div class="progress">
+              <span class="skill">Bootstrap <i class="val">85%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
           </div>
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
@@ -232,11 +239,13 @@ if (isset($_POST['contact_btn'])) {
             </div>
 
             <div class="progress">
-              <span class="skill">SQLi <i class="val">75%</i></span>
+              <span class="skill">Laravel <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
-            </div><div class="progress">
+            </div>
+
+            <div class="progress">
               <span class="skill">SQLi <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
